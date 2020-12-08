@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+input{
+    border: 0px;
+    outline-style: none;
+}
+button{
+    border: 0px;
+    outline-style: none;
+}
